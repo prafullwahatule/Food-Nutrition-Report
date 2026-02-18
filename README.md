@@ -1,4 +1,7 @@
-![Daily Food Nutrition_page-0001](https://github.com/user-attachments/assets/96a8d963-45ef-42b3-9495-3a0db785d1d5)# 🥗 Food Nutrition & Dietary Insights Dashboard (Power BI)
+# 🥗 Food Nutrition & Dietary Insights Dashboard (Power BI)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 > An interactive health analytics dashboard built using Power BI to transform raw nutrition data into actionable dietary intelligence.
 
@@ -210,14 +213,22 @@ It demonstrates the ability to:
 - Include predictive health risk modeling
 ---
 
-## 📬 Author
 
-**Prafull Wahatule**  
-Data Analyst | Power BI Developer  
+## 👨‍💻 Author
 
-📧 prafullwahatule@gmail.com  
-🔗 GitHub: https://github.com/prafullwahatule  
+
+**👤 Name:** Prafull Wahatule - Data Analyst | Power BI Developer  
+**📧 Email:** [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
+**💻 GitHub:** [prafullwahatule](https://github.com/prafullwahatule)  
 
 ---
 
-⭐ If you found this project insightful, feel free to explore the repository and connect!
+## ⭐ Support
+
+If you like this project, consider giving it a **⭐ on GitHub** — it helps a lot!
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — see the `LICENSE` file for details.
