@@ -1,4 +1,4 @@
-# 🥗 Food Nutrition & Dietary Insights Dashboard (Power BI)
+![Daily Food Nutrition_page-0001](https://github.com/user-attachments/assets/96a8d963-45ef-42b3-9495-3a0db785d1d5)# 🥗 Food Nutrition & Dietary Insights Dashboard (Power BI)
 
 > An interactive health analytics dashboard built using Power BI to transform raw nutrition data into actionable dietary intelligence.
 
@@ -116,21 +116,33 @@ The dashboard is divided into 4 analytical layers:
 - Overall nutrition snapshot
 - Quick health assessment
 
+![Daily Food Nutrition_page-0001](https://github.com/user-attachments/assets/5a20383e-7d61-4368-8197-50adc54cbc31)  
+  
+
 ### 📊 2. Overview
 - Macronutrient distribution
 - Meal-type calorie comparison
 - Category-level breakdown
 
+![Daily Food Nutrition_page-0002](https://github.com/user-attachments/assets/b764dd93-8309-421b-9b30-e398d206c6da)  
+  
+
 ### 🔍 3. Deep Analysis
 - High-risk food identification
 - Sugar, Sodium, Cholesterol concentration analysis
-- Unhealthy pattern detection
+- Unhealthy pattern detection  
+
+![Daily Food Nutrition_page-0003](https://github.com/user-attachments/assets/30591ae2-c13e-46fe-a23b-fb6994f64e8f)  
+  
 
 ### ❤️ 4. Health Insights
 - Weight Loss Friendly Foods
 - Muscle Gain Support Foods
 - Sodium Awareness Insights
 - Personalized goal-oriented filtering
+ 
+![Daily Food Nutrition_page-0004](https://github.com/user-attachments/assets/b912a2ed-0077-4e30-b48f-c79605f11fdf)  
+  
 
 ---
 
@@ -196,13 +208,6 @@ It demonstrates the ability to:
 - Add calorie recommendation engine
 - Expand to weekly/monthly dietary tracking
 - Include predictive health risk modeling
-
----
-
-## 📷 Dashboard Preview
-
-(Add dashboard screenshots here)
-
 ---
 
 ## 📬 Author
